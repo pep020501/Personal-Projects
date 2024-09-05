@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class Wordreverse {
 
-  private static String word = "Marsha is a Trumpie";
+  private static String word = "Marsha is a teacher";
   private static String reverseword ="";
   private static char letter;
     public static void main(String[] args) {
