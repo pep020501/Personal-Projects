@@ -1,0 +1,17 @@
+.flex {
+    display: flex;
+}
+
+.items {
+    align-items: center;
+}
+
+.spacing {
+    justify-content: space-between;
+}
+
+.btn {
+    padding: 10px 15px 10px;
+    font-weight: bold;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+﻿@import 'utilities.css';
+:root {
+    background-color: #00bfff;
+    color: #000000;
+    
+    
+}
+
+header {
+    background-color: #000000;
+}
+
+ .left .name h1{
+       color: #00bfff;
+       font-style: italic;
+ }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    j
+}
+
+.container {
+    max-width: 1152px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.left .directory a{
+    text-decoration: none;
+    color: white;   
+}
+
