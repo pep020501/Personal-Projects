@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class DateCalculator {
 
     static Scanner years = new Scanner(System.in);
-    static String date = "July 30";
+    static String date = "September 12";
     static int currentyear = 2024;
     static int difference;
     static int resultyear;
