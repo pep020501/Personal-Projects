@@ -19,11 +19,11 @@ public class Realtor {
         this.company = company;
     }
   
-  public String getAgent(String agent){
+  public String getAgent(){
       return agent;
   }
   
-  public String getCompany(String company){
+  public String getCompany(){
       return company; 
   }
   
