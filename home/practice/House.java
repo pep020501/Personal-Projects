@@ -25,12 +25,12 @@ public class House extends Homes {
       
   }
   
-  public int getSize(int landSize){
+  public int getSize(){
       return landSize;
   }
   
-  public int yearBuilt(int yearBuilt) {
-      return yearBuilt;
+  public int getyearBuilt() {
+      return getyearBuilt;
   }
   
   public void setPrice(double ogprice){
