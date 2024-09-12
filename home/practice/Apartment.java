@@ -22,14 +22,14 @@ public class Apartment extends Homes{
        
     }
     
-    public String getComplex(String complex){
+    public String getComplex(){
         return complex; 
     }
     
-    public int getFloors(int floorNum){
+    public int getFloors(){
         return floorNum;
     }
-    public char getPets(char petsOK){
+    public char getPets(){
         return petsOK;
     }
     
