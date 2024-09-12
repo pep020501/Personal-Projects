@@ -23,11 +23,11 @@ public class Condo extends Homes {
      
  }
  
- public double getFee(double fee){
+ public double getFee(){
      return fee;
  }
  
- public int getMaxPets(int maxPets){
+ public int getMaxPets(){
      return maxPets; 
  }
  
