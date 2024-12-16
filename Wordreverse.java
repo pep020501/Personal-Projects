@@ -5,8 +5,6 @@
  */
 package wordreverse;
 
-import java.util.ArrayList;
-
 public class Wordreverse {
 
   private static String word = "Marsha is a teacher";
@@ -19,7 +17,11 @@ public class Wordreverse {
             reverseword = letter + reverseword.toLowerCase();
         }
             System.out.println("After: "+reverseword);
+
+            //returns substring from string 
             System.out.println(word.substring(0, 6));
+
+            //determines if regular and reversed string are equal 
             System.out.println(word.equals(reverseword));
     }
     
